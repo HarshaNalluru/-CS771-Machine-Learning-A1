@@ -1,0 +1,5 @@
+Accuracy for k = 1 =>  75.92
+Accuracy for k = 2 =>  73.375
+Accuracy for k = 3 =>  80.39
+Accuracy for k = 5 =>  81.87
+Accuracy for k = 10 =>  82.92

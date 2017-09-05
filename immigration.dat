@@ -1,0 +1,8 @@
+Test Accuracies (fraction of the 20K points that were correctly classified) vs K
+#
+K	Accuracy
+1   75.92
+2   73.375
+3   80.39
+5   81.87
+10   82.92
